@@ -1,0 +1,4 @@
+---
+applications:
+- memory: 128M
+  domain: cfapps.io
